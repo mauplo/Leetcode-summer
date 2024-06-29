@@ -1,3 +1,8 @@
+"""
+Given an integer x, return true if x is a 
+palindrome, and false otherwise.
+"""
+
 class Solution(object):
     def isPalindrome(self, x):
        # We convert x into a string
